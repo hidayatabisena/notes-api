@@ -1,6 +1,6 @@
 # Notes API
 
-Preparing API for SwiftUI online learning at iSwift Bootcamp
+Preparing API for Swift and UIKit online learning at iSwift Bootcamp
 
 ## Banner
 
